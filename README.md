@@ -13,7 +13,7 @@ Create a program that reads a list of words from a text file (**res/words.txt**)
 1. Remove duplicate words and prints resulting word list
 2. Sorts words alphabetically and prints resulting word list
 3. Sorts words by size (number of characters) and prints resulting word list
-4. Separates words into 26 files (A.txt, B.txt, ..., Z.txt)where each file <Letter>.txt has the words starting with <Letter> sorted alphabetically.
+4. Separates words into 26 files (A.txt, B.txt, ..., Z.txt)where each file &lt;Letter&gt;.txt has the words starting with &lt;Letter&gt; sorted alphabetically.
 
 ## Exercise 2:
 Create a program that reads a list of arithmetic operations from a text file (**res/arithmetic.txt**) and prints the result of each operation to screen.
