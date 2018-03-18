@@ -4,6 +4,7 @@
  * Fork this repository.
  * Solve all following exercises in the forked git project.
  * You can decide to submit the exercises either in Java, C++, other language of your choosing or multiple solutions in different languages.
+ * You will (also) be evaluated by code style and documentation.
  * After you're done share your repository with **zepinto**.
 
 ## Exercise 1:
